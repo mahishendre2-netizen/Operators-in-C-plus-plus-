@@ -1,6 +1,6 @@
-// PAPRI SEN
-// 2400123070
-// A3
+//Mahi Shendre
+//25070123504
+
 #include<iostream>
 using namespace std;
 int main()
